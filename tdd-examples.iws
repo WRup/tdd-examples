@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="717803ab-9c11-4327-86d2-ffbfe0428232" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/currency/Dollar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tdd-examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd-examples.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/tdd-examples.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/currency/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/currency/Dollar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tdd-examples.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tdd-examples.iws" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tdd-examples.iws">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="83" column="75" selection-start-line="83" selection-start-column="75" selection-end-line="83" selection-end-column="75" />
+            <state relative-caret-position="697">
+              <caret line="86" column="75" selection-start-line="86" selection-start-column="75" selection-end-line="86" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -49,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="170">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,8 +57,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/currency/Dollar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="187">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +88,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/MainApplication.java" />
         <option value="$PROJECT_DIR$/src/test/java/currencyTests/testMultiplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/currency/Dollar.java" />
         <option value="$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/currency/Dollar.java" />
       </list>
     </option>
   </component>
@@ -188,14 +190,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/Android/SDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551734004554" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551734634817" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/mingw64/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -288,7 +290,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551729512950</updated>
-      <workItem from="1551729516903" duration="2488000" />
+      <workItem from="1551729516903" duration="3258000" />
     </task>
     <servers />
   </component>
@@ -299,13 +301,21 @@
     <history-entry file="testCurrency_testMultiplication - 2019.03.04 at 22h 10m 09s.xml">
       <configuration name="testCurrency.testMultiplication" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="testCurrency_testMultiplication - 2019.03.04 at 22h 11m 14s.xml">
+      <configuration name="testCurrency.testMultiplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testMultiplication - 2019.03.04 at 22h 13m 28s.xml">
+      <configuration name="testCurrency.testMultiplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testMultiplication - 2019.03.04 at 22h 21m 33s.xml">
+      <configuration name="testCurrency.testMultiplication" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2488000" />
+    <option name="totallyTimeSpent" value="3258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -363,22 +373,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tdd-examples.iws">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="83" column="75" selection-start-line="83" selection-start-column="75" selection-end-line="83" selection-end-column="75" />
+        <state relative-caret-position="697">
+          <caret line="86" column="75" selection-start-line="86" selection-start-column="75" selection-end-line="86" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/currency/Dollar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="187">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="170">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -426,7 +442,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>9.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
