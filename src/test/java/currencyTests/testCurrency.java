@@ -22,6 +22,7 @@ public class testCurrency {
         assertNotEquals(new Dollar(5), new Dollar(6));
         assertEquals(new Frank(5), new Frank(5));
         assertNotEquals(new Frank(5), new Frank(6));
+        assertNotEquals(new Frank(5), new Dollar(5));
 
 
     }
