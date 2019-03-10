@@ -9,12 +9,12 @@ public class Money {
         this.currency = currency;
     }
 
-    public static Dollar dollar(int amount) {
-        return new Dollar(amount, "USD");
+    public static Money dollar(int amount) {
+        return new Money(amount, "USD");
     }
 
-    public static Frank frank(int amount) {
-        return new Frank(amount, "CHF");
+    public static Money frank(int amount) {
+        return new Money(amount, "CHF");
     }
 
     public Money times(int multiplier) {
