@@ -9,3 +9,7 @@ R
 -src/test/java/currencyTests/testCurrency.java,2\6\261571e8dab1b50fc408950c84ce16dbce709f40
 @
 tdd-examples.iws,4\b\4b0d6711bdbc461e241ebf1fd7326ad7e4d61d5b
+Q
+!src/main/java/currency/Money.java,a\5\a51c3f66cf94d0b126e8e32b60de856bda023dc0
+Q
+!src/main/java/currency/Frank.java,1\e\1e69278887726bcf5f2877e24cbf956f209c17a4

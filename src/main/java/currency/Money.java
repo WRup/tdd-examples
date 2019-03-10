@@ -1,8 +1,17 @@
 package currency;
 
-public class Money {
+public abstract class Money {
     protected int amount;
 
+    public static Dollar dollar(int amount) {
+        return new Dollar(amount);
+    }
+
+    public static Frank frank(int amount) {
+        return new Frank(amount);
+    }
+
+    public abstract Money times(int multipler);
 
     @Override
     public boolean equals(Object obj) {
