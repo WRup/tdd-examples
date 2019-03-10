@@ -1,6 +1,6 @@
 package currency;
 
-public abstract class Money {
+public class Money {
     protected int amount;
     protected String currency;
 
@@ -17,23 +17,30 @@ public abstract class Money {
         return new Frank(amount, "CHF");
     }
 
-    public String currency() {
-        return currency;
+    public Money times(int multiplier) {
+        return new Money(amount * multiplier, currency);
     }
-
-    public abstract Money times(int multiplier);
 
     @Override
     public boolean equals(Object obj) {
         if(obj == null) {
             return false;
         }
-        if(getClass() != obj.getClass()) {
-            return false;
-        } else {
+        //        if(getClass() != obj.getClass()) {
+        //            return false;
+        else {
             Money money = (Money) obj;
-            return amount == money.amount;
+            return amount == money.amount && currency.equals(money.currency);
         }
 
+    }
+
+    @Override
+    public String toString() {
+        return amount + " " + currency;
+    }
+
+    public String currency() {
+        return currency;
     }
 }

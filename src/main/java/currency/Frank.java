@@ -8,12 +8,12 @@ public class Frank extends Money {
     }
 
     @Override
-    public String currency() {
-        return currency;
+    public Money times(int multiplier) {
+        return new Money(amount * multiplier, currency);
     }
 
     @Override
-    public Money times(int multiplier) {
-        return Money.frank(amount * multiplier);
+    public String currency() {
+        return currency;
     }
 }

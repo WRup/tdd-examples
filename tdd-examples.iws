@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="717803ab-9c11-4327-86d2-ffbfe0428232" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/currency/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/currency/Dollar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/currency/Frank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/currency/Frank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/currency/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/currency/Money.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd-examples.iws" beforeDir="false" afterPath="$PROJECT_DIR$/tdd-examples.iws" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="32" column="53" lean-forward="true" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+              <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,16 +47,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/currency/Money.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="442">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
-                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
                 <element signature="e#206#207#0" expanded="true" />
                 <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#965#966#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,21 +67,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/currency/Frank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="187">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="e#130#131#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
                 <element signature="e#247#248#0" expanded="true" />
                 <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/currency/Dollar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -113,10 +115,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/MainApplication.java" />
         <option value="$PROJECT_DIR$/src/test/java/currencyTests/testMultiplication.java" />
-        <option value="$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java" />
-        <option value="$PROJECT_DIR$/src/main/java/currency/Money.java" />
-        <option value="$PROJECT_DIR$/src/main/java/currency/Frank.java" />
         <option value="$PROJECT_DIR$/src/main/java/currency/Dollar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/currency/Frank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/currency/Money.java" />
       </list>
     </option>
   </component>
@@ -225,7 +227,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/Android/SDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552199421072" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552202431202" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../card-war-game" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -251,17 +253,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.testCurrency">
+  <component name="RunManager" selected="JUnit.testCurrency.testDifferentClassEquality">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainApplication" />
-      <module name="tdd-examples" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -295,6 +289,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testCurrency.testDifferentClassEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="currencyTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="currencyTests" />
+      <option name="MAIN_CLASS_NAME" value="currencyTests.testCurrency" />
+      <option name="METHOD_NAME" value="testDifferentClassEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testCurrency.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd-examples" />
       <extension name="coverage">
@@ -306,6 +317,23 @@
       <option name="PACKAGE_NAME" value="currencyTests" />
       <option name="MAIN_CLASS_NAME" value="currencyTests.testCurrency" />
       <option name="METHOD_NAME" value="testEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCurrency.testFifferentClassEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="currencyTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="currencyTests" />
+      <option name="MAIN_CLASS_NAME" value="currencyTests.testCurrency" />
+      <option name="METHOD_NAME" value="testFifferentClassEquality" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -349,10 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testCurrency.testDifferentClassEquality" />
+        <item itemvalue="JUnit.testCurrency.testFifferentClassEquality" />
         <item itemvalue="JUnit.testCurrency" />
         <item itemvalue="JUnit.testCurrency.testEquality" />
         <item itemvalue="JUnit.testCurrency.testMultiplication" />
-        <item itemvalue="Application.MainApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -370,44 +399,44 @@
       <workItem from="1551892458421" duration="456000" />
       <workItem from="1551893065305" duration="5161000" />
       <workItem from="1551986788959" duration="93000" />
-      <workItem from="1552197859277" duration="2117000" />
+      <workItem from="1552197859277" duration="3720000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testCurrency_testEquality - 2019.03.06 at 19h 31m 33s.xml">
-      <configuration name="testCurrency.testEquality" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testCurrency_testMultiplication - 2019.03.06 at 20h 04m 31s.xml">
-      <configuration name="testCurrency.testMultiplication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testCurrency_testMultiplication - 2019.03.06 at 20h 24m 39s.xml">
-      <configuration name="testCurrency.testMultiplication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testCurrency - 2019.03.06 at 20h 28m 25s.xml">
+    <history-entry file="testCurrency - 2019.03.10 at 07h 45m 02s.xml">
       <configuration name="testCurrency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="testCurrency_testEquality - 2019.03.06 at 20h 30m 25s.xml">
-      <configuration name="testCurrency.testEquality" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testCurrency_testEquality - 2019.03.06 at 20h 33m 06s.xml">
-      <configuration name="testCurrency.testEquality" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testCurrency_testEquality - 2019.03.06 at 20h 33m 18s.xml">
-      <configuration name="testCurrency.testEquality" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testCurrency_testMultiplication - 2019.03.10 at 07h 12m 20s.xml">
-      <configuration name="testCurrency.testMultiplication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testCurrency_testEquality - 2019.03.10 at 07h 13m 26s.xml">
-      <configuration name="testCurrency.testEquality" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testCurrency - 2019.03.10 at 07h 29m 41s.xml">
+    <history-entry file="testCurrency - 2019.03.10 at 07h 46m 07s.xml">
       <configuration name="testCurrency" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency - 2019.03.10 at 07h 49m 15s.xml">
+      <configuration name="testCurrency" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testFifferentClassEquality - 2019.03.10 at 07h 51m 11s.xml">
+      <configuration name="testCurrency.testFifferentClassEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testDifferentClassEquality - 2019.03.10 at 07h 51m 57s.xml">
+      <configuration name="testCurrency.testDifferentClassEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testDifferentClassEquality - 2019.03.10 at 07h 52m 27s.xml">
+      <configuration name="testCurrency.testDifferentClassEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testDifferentClassEquality - 2019.03.10 at 07h 53m 37s.xml">
+      <configuration name="testCurrency.testDifferentClassEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testDifferentClassEquality - 2019.03.10 at 07h 54m 33s.xml">
+      <configuration name="testCurrency.testDifferentClassEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testDifferentClassEquality - 2019.03.10 at 07h 55m 05s.xml">
+      <configuration name="testCurrency.testDifferentClassEquality" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCurrency_testDifferentClassEquality - 2019.03.10 at 07h 55m 27s.xml">
+      <configuration name="testCurrency.testDifferentClassEquality" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11208000" />
+    <option name="totallyTimeSpent" value="12811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -474,44 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="32" column="53" lean-forward="true" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/currency/Frank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/currency/Money.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/currency/Dollar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -521,6 +512,46 @@
             <element signature="e#156#157#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
             <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/currency/Frank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/currencyTests/testCurrency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/currency/Money.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
           </folding>
         </state>
       </provider>
